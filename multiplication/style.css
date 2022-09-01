@@ -1,0 +1,45 @@
+.heading{
+    font-size: 45px;
+    text-align: center;
+    color: black;
+    text-shadow: 2px 2px 2px white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: gray;
+}
+.content{
+    text-align: center;
+    padding: 4rem;
+    margin-left: auto;
+}
+.value2{
+    font-size: 30px;
+    font-weight: 300;
+    padding: 0;
+}
+.value1{
+    font-size: 30px;
+    font-weight: 300;
+    padding: 0;
+}
+.btn{
+    width: 150px;
+    height: 40px;
+}
+.btn:hover{
+    background-color:  yellow;
+    color: black;
+}
+#result{
+    background-color: black;
+    width: 350px;
+    color: white;
+    font-size: 30px;
+    font-weight: 400;
+    text-align: center;
+    margin-left: 32rem;
+    border: 4rem;
+    box-shadow: 2px 2px 4px white;
+    border-radius: 3rem;
+}

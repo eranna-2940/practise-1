@@ -1,0 +1,55 @@
+body{
+    background-color: rgba(137, 137, 228, 0.479);
+}
+h1{
+    font-size: 40px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-weight: 500;
+    text-align: center;
+    text-shadow: 3px 3px 4px black;
+    
+}
+.container{
+    background-color: white;
+    width: 400px;
+    height: 420px;
+    align-items: center;
+    margin-top: 10rem;
+    border-radius: 2rem;
+}
+.temp{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 600;
+    
+}
+#c{
+    font-size: 30px;
+    margin-left: 10px;
+}
+#weather-desc{
+    font-size: 30px;
+    text-align: center;
+    font-weight: 500;
+}
+#location{
+    font-size: 30px;
+    text-align: center;
+    font-weight: 500;
+}
+.input{
+    text-align: center;
+    margin-top: 3rem;
+}
+#btn{
+    width: 100px;
+    height: 35px;
+}
+#btn:active, #btn:hover{
+    background-color: yellow;
+    box-shadow: 0px 0px 3px black;
+    color: #000;
+}
+#img{
+    margin-left: 8rem;
+}
